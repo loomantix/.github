@@ -4,7 +4,7 @@ Loomantix builds healthcare software and supporting developer infrastructure for
 
 ## Public Repositories
 
-- [`claude-platform`](https://github.com/loomantix/claude-platform) - reusable Claude Code skills, agents, and sync tooling.
+- [`codex-platform`](https://github.com/loomantix/codex-platform) - Codex skills, workflow prompts, and sync tooling.
 - [`platform-oss`](https://github.com/loomantix/platform-oss) - public `@loomantix/*` infrastructure packages.
 - [`billing-substrate`](https://github.com/loomantix/billing-substrate) - multi-jurisdiction healthcare claims-adapter substrate.
 
