@@ -4,10 +4,11 @@ Loomantix builds healthcare software and supporting developer infrastructure for
 
 ## Public Repositories
 
-- [`codex-platform`](https://github.com/loomantix/codex-platform) - Codex skills, workflow prompts, and sync tooling.
-- [`claude-platform`](https://github.com/loomantix/claude-platform) - reusable Claude Code skills, agents, and sync tooling.
+- [`activeloom`](https://github.com/loomantix/activeloom) - reusable engineering skills, review protocols, and sync tooling for coding agents across Claude Code, Codex, and Gemini/Agy. Site: [activeloom.dev](https://activeloom.dev) ([source](https://github.com/loomantix/www.activeloom.ca)).
 - [`platform-oss`](https://github.com/loomantix/platform-oss) - public `@loomantix/*` infrastructure packages.
 - [`billing-substrate`](https://github.com/loomantix/billing-substrate) - multi-jurisdiction healthcare claims-adapter substrate.
+
+ActiveLoom replaces the archived `claude-platform`, `codex-platform`, and `gemini-platform` repositories.
 
 ## Packages
 
